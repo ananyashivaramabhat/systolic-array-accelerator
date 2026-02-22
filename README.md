@@ -4,6 +4,7 @@
 ![Language](https://img.shields.io/badge/Verilog%20%7C%20SystemVerilog-blue)
 ![Tool](https://img.shields.io/badge/Vivado%202025.1-red)
 ![Board](https://img.shields.io/badge/Arty%20A7-Xilinx%20Artix--7-green)
+![Arty A7 board used in this project](images/board.jpeg)
 
 A hardware accelerator built from scratch on an FPGA that performs matrix multiplication using a systolic array - the same fundamental architecture behind Google's TPU and Nvidia's Tensor Cores.
 
